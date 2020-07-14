@@ -16,6 +16,7 @@ const RentalRoutes = require("../routes/rental");
 const UserRoutes = require("../routes/users");
 const AuthRoutes = require("../routes/auth");
 const Index = require("../routes");
+const error = require("../middleware/error");
 
 debug(cf.jwt);
 debug(cf.port);
@@ -55,6 +56,8 @@ app.use("/api/rentals", RentalRoutes);
 app.use("/api/customers", CustomerRoutes);
 app.use("/api/users", UserRoutes);
 app.use("/api/auth", AuthRoutes);
+
+app.use(error);
 
 app.listen(PORT, () =>
     debug(`Server is running on port ${PORT} and on ${app.get("env")} grounds`)

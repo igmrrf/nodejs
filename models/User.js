@@ -31,10 +31,14 @@ const userSchema = new mongoose.Schema({
         max: 1024,
         required: true,
     },
+    isAdmin: Boolean,
 });
 
 userSchema.methods.generateAuthToken = function () {
-    return jwt.sign({ _id: this._id }, config.get("vividly_jwtkey"));
+    return jwt.sign(
+        { _id: this._id, isAdmin: this.isAdmin },
+        config.get("vividly_jwtkey")
+    );
 };
 
 const User = mongoose.model("User", userSchema);
