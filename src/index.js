@@ -1,3 +1,5 @@
+require("express-async-errors");
+const winston = require("winston");
 const config = require("config");
 const joi = require("@hapi/joi");
 joi.objectId = require("joi-objectid")(joi);
@@ -20,6 +22,8 @@ const error = require("../middleware/error");
 
 debug(cf.jwt);
 debug(cf.port);
+
+winston.add(winston.transports.File, {filename: "logfile.log"})
 
 const app = express();
 const PORT = cf.port;
