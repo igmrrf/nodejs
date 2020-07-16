@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 const { genreSchema } = require("./Genre");
 const debug = require("debug")("app:Movies");
 const joi = require("@hapi/joi");
+joi.objectId = require("joi-objectid")(joi);
 
 const movieSchema = new mongoose.Schema({
     title: {

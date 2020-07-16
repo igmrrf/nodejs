@@ -2,6 +2,5 @@
     "mail": {
         "password": "APP_PASSWORD"
     },
-    "vividly_jwtkey": "JWT_SECRET_KEY",
-    "port": "PORT"
+    "vividly_jwtkey": "JWT_SECRET_KEY"
 }
