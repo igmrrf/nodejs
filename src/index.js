@@ -1,16 +1,20 @@
-require("express-async-errors");
 require("dotenv").config();
-require("../database");
-const debug = require("debug")("app:app");
+const winston = require("winston");
 const express = require("express");
 const app = express();
-require("../containers/errorHandler")(app);
+
+require("../containers/logging")();
+require("../containers/database")();
 require("../containers/routes")(app);
+require("../containers/config")(app);
+require("../containers/validate")();
 
 app.set("view engine", "pug");
 app.set("views", "./views");
-const PORT = process.env.PORT;
 
+const PORT = process.env.PORT;
 app.listen(PORT, () =>
-    debug(`Server is running on port ${PORT} and on ${app.get("env")} grounds`)
+  winston.info(
+    `Server is running on port ${PORT} and on ${app.get("env")} grounds`
+  )
 );
