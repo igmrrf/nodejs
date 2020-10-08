@@ -1,5 +1,12 @@
 {
     "name": "My Express App",
-    "vividly_jwtkey": "",
-    "port": 3000
+    "vividly_jwtkey": "JWT_SECRET_KEY",
+    "db": "",
+    "port": "PORT",
+    "mail": {
+        "host": "dev-mail-server",
+        "username": "the_lazy",
+        "password": "APP_PASSWORD"
+    }
+
 }

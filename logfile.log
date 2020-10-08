@@ -5,3 +5,1110 @@
 {"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-19T18:44:18.945Z"}
 {"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-19T18:44:31.072Z"}
 {"level":"info","message":"Successful Connection to database","timestamp":"2020-07-19T18:44:31.100Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-20T03:51:33.711Z"}
+{"level":"info","message":"Successful Connection to database","timestamp":"2020-07-20T03:51:33.868Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-20T03:52:13.899Z"}
+{"level":"info","message":"Successful Connection to database","timestamp":"2020-07-20T03:52:13.950Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:42:02.941Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:42:02.980Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:44:12.633Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:44:12.655Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:45:01.955Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:45:01.978Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:45:46.952Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:45:46.980Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:47:17.945Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:47:17.975Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:47:55.641Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:47:55.679Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:48:17.688Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/playground","timestamp":"2020-07-29T09:48:17.726Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:49:05.563Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:49:05.589Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:49:25.135Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:49:25.167Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:49:45.046Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:49:45.077Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:54:27.192Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:54:27.252Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:55:06.759Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:55:06.831Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:55:17.288Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:55:17.326Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:55:41.033Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:55:41.068Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:56:59.938Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:56:59.968Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:57:01.120Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:57:01.150Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T09:58:55.279Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T09:58:55.303Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:00:06.720Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:00:06.756Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:01:30.674Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:01:30.704Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:02:35.304Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:02:35.333Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:02:54.833Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:02:54.879Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:04:02.336Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:04:02.363Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:04:21.948Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:04:21.983Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:05:07.656Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:05:07.683Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:06:04.276Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:06:04.319Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:06:19.071Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:06:19.101Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:07:06.122Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:07:06.148Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:07:28.316Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:07:28.354Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:07:56.360Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:07:56.396Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:09:17.920Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:09:17.969Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:10:59.009Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:10:59.061Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:12:23.304Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:12:23.411Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:13:27.099Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:13:27.137Z"}
+{"message":"Error on Genre","stack":"Error: Error on Genre\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:10:11\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-07-29T10:13:27.807Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:22:20.672Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:22:20.697Z"}
+{"message":"Error on Genre","stack":"Error: Error on Genre\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:10:11","level":"error","timestamp":"2020-07-29T10:23:38.323Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:25:05.355Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:25:05.392Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:25:31.241Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:25:31.349Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:26:02.234Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:26:02.273Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:26:19.962Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:26:20.003Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:536:11)\n    at ServerResponse.header (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/response.js:771:10)\n    at ServerResponse.send (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/response.js:267:15)\n    at ServerResponse.send (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/response.js:158:21)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:12:9","code":"ERR_HTTP_HEADERS_SENT","level":"error","timestamp":"2020-07-29T10:26:23.202Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:26:49.815Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:26:49.851Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:27:38.933Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:27:38.959Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:27:59.391Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:27:59.425Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:45:55.613Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:45:55.647Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:46:16.760Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:46:16.786Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:46:31.753Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:46:31.791Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:49:42.562Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:49:42.589Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4351:21)\n    at model.Query.Query.then (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4443:15)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-07-29T10:49:42.658Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:50:14.356Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:50:14.390Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4351:21)\n    at model.Query.Query.then (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4443:15)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-07-29T10:50:14.455Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:50:33.164Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:50:33.189Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T10:51:26.096Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:51:26.124Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:51:29.435Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:51:29.462Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:51:46.400Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:51:46.426Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:52:27.252Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:52:27.278Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:53:23.136Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:53:23.163Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:54:03.811Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:54:03.837Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:54:48.366Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:54:48.392Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:55:16.802Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:55:16.846Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:56:20.523Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:56:20.552Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:58:07.995Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:58:08.026Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:58:26.174Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:58:26.201Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T10:59:37.274Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T10:59:37.300Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:00:12.142Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:00:12.169Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:00:37.818Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:00:37.851Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:01:05.946Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:01:05.972Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:01:40.886Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:01:40.913Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:05:05.695Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:05:05.739Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:07:31.296Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:07:31.323Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:08:25.673Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:08:25.707Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:10:11.927Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:10:11.954Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:10:36.248Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:10:36.274Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T11:12:25.088Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T11:12:25.120Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4351:21)\n    at model.Query.Query.then (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4443:15)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-07-29T11:12:25.222Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:27:46.653Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:28:17.396Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:28:52.856Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:28:52.902Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:28:52.986Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:28:52.999Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:29:29.836Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:29:29.863Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:29:29.932Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:29:29.948Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:30:04.205Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:30:04.231Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:30:04.309Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:30:04.328Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:30:39.004Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:30:39.072Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:30:39.132Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/serve-static/index.js:121:7)\n    at SendStream.emit (events.js:314:20)\n    at SendStream.error (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:270:17)\n    at SendStream.onStatError (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:421:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:735:16)\n    at onstat (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/send/index.js:724:14)\n    at FSReqCallback.oncomplete (fs.js:176:21)","level":"error","timestamp":"2020-07-29T12:30:39.159Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:30:43.696Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:30:43.721Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:17:5\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:635:15\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:260:14)","level":"error","timestamp":"2020-07-29T12:30:49.947Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:31:19.292Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:31:19.318Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:31:49.751Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:31:49.786Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:33:05.636Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:33:05.670Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:33:52.059Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:33:52.091Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4351:21)\n    at model.Query.Query.then (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/mongoose/lib/query.js:4443:15)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-07-29T12:33:52.186Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:34:38.416Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:34:44.562Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:34:44.589Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:37:03.036Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:37:03.062Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:37:45.613Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:37:45.647Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:39:44.594Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:39:44.628Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:40:57.563Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:40:57.602Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:41:46.555Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:41:46.581Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:41:58.351Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:41:58.391Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:42:45.949Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:42:45.980Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:43:03.312Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:43:03.346Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:45:58.139Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:45:58.164Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:47:50.916Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:47:50.951Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T12:50:04.503Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:50:04.538Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:51:14.100Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:51:14.125Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:52:26.026Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:52:26.063Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:52:51.014Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:52:51.093Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:52:54.560Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T12:57:45.849Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:57:45.890Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:57:49.245Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:58:56.317Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:59:45.813Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T12:59:52.091Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T13:00:44.604Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:00:44.627Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:00:56.414Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:01:27.745Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:02:58.940Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:04:18.175Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:04:43.787Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:06:38.156Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:06:52.645Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:07:45.237Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:08:01.317Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:08:23.223Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:09:35.622Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:18:00.601Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:18:49.118Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:19:02.880Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:19:19.952Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:19:46.236Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:22:09.072Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:23:13.960Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:23:55.794Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:24:29.221Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:27:10.213Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:28:08.187Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:28:27.732Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:28:41.591Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:32:30.229Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:34:36.310Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:34:36.338Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:37:52.560Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:38:46.846Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:40:38.745Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:41:39.512Z"}
+{"level":"info","message":"DATABASE","timestamp":"2020-07-29T13:42:15.201Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:42:15.470Z"}
+{"level":"info","message":"VIDLY_DATABASE","timestamp":"2020-07-29T13:42:54.568Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:42:54.843Z"}
+{"meta":"","level":"info","message":"","timestamp":"2020-07-29T13:44:36.303Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:44:36.584Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:45:16.736Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:45:17.036Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:45:17.063Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:46:43.001Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:46:43.441Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:46:43.498Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:46:52.034Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:46:52.319Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:46:52.345Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:47:09.397Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:47:09.673Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:47:09.699Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:48:35.566Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:48:35.856Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:48:35.882Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:49:08.718Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:49:09.002Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:49:09.028Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:49:41.957Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:49:42.244Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:49:42.277Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:50:06.743Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:50:07.039Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:50:07.065Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:50:26.621Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:50:26.919Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:50:26.944Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:51:47.100Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:51:47.388Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:51:47.423Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:52:11.887Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:52:12.176Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:52:12.201Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:53:00.143Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:53:00.430Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:53:00.455Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:53:17.445Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:53:17.741Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:53:17.768Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:53:32.458Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:53:32.873Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:53:32.920Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:55:57.699Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:55:57.998Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:55:58.025Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:56:42.199Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:56:42.482Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:56:42.508Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:57:06.416Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:57:06.701Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:57:06.727Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T13:58:27.306Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T13:58:27.602Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T13:58:27.627Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:00:57.656Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:00:58.084Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:00:58.117Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:02:22.635Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:02:23.086Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:02:23.122Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:02:51.858Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:02:52.170Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:02:52.205Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:03:00.200Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:03:00.643Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:03:00.671Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:03:56.408Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:03:56.796Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:03:56.837Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:04:54.470Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:04:54.933Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:04:54.970Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:05:38.907Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:05:39.383Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:05:39.426Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:06:48.963Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:06:49.286Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:06:49.313Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:07:25.587Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:07:25.917Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:07:25.957Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:14:49.208Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:14:49.635Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:14:49.668Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:15:41.251Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:15:41.595Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:15:41.635Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:15:42.908Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:16:33.094Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:16:33.469Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:16:33.500Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:16:34.185Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:17:15.053Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:17:15.411Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:17:15.442Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:17:15.950Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:17:34.375Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:17:34.703Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:17:34.730Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:17:35.147Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:18:42.948Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:18:43.276Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:18:43.303Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:18:43.776Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:18:44.198Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:18:44.272Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:04.260Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:19:04.581Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:04.610Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:05.228Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:19:05.556Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:05.626Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:29.586Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:19:29.912Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:29.953Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:30.468Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:19:30.821Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:19:30.872Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:27.563Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:20:27.877Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:27.907Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:28.499Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:20:28.891Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:28.942Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:55.525Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:20:55.948Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:55.978Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:56.508Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:20:56.851Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:20:56.896Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:19.065Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:21:19.554Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:19.625Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:20.383Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:21:20.735Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:20.762Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:24.810Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:21:25.148Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:25.197Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:25.812Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:21:26.116Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:21:26.141Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:19.852Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:22:20.341Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:20.438Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:20.978Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:22:21.339Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:21.369Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:55.673Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:22:56.064Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:56.126Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:56.597Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:22:56.955Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:22:56.982Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:23:16.859Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:23:17.216Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:23:17.262Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:23:17.797Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:23:18.121Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:23:18.155Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:25:59.487Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:25:59.802Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:25:59.832Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:00.519Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:00.853Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:00.907Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:15.634Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:15.971Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:16.011Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:16.457Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:16.807Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:16.865Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:36.690Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:37.019Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:37.048Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:37.579Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:37.927Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:37.981Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:57.728Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:58.043Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:58.070Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:58.655Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:26:59.091Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:26:59.147Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:27:51.604Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:27:51.957Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:27:51.997Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:27:52.539Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:27:52.933Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:27:52.986Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:07.551Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:31:07.890Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:07.920Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:08.293Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:31:08.639Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:08.704Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:28.053Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:31:28.522Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:28.568Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:29.459Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:31:29.942Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:31:30.005Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:24.412Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:32:24.776Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:24.804Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:25.514Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:32:25.848Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:25.894Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:37.448Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:32:37.787Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:37.838Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:38.345Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:32:38.674Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:38.708Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:58.209Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:32:58.564Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:58.611Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:59.126Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:32:59.442Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:32:59.478Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:33:09.281Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:33:09.696Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:33:09.749Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:33:09.413Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:33:09.804Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:33:09.821Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:36:53.349Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:36:53.674Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:36:53.705Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:36:53.366Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:36:53.724Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:36:53.786Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:37:59.384Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:37:59.416Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:37:59.792Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:37:59.845Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:37:59.838Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:37:59.865Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:38:29.066Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:38:29.412Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:38:29.442Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:38:29.097Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:38:29.441Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:38:29.519Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:17.050Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:39:17.421Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:17.448Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:17.068Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:39:17.463Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:17.525Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:39.586Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:39.652Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:39:39.945Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:39.995Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:39:39.991Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:39:40.015Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:41:22.342Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:41:22.702Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:41:22.756Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:41:23.143Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:41:23.490Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:41:23.517Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:42:25.510Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:42:25.882Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:42:25.921Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:42:25.503Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:42:25.911Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:42:25.995Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:43:22.498Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:43:22.544Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:43:22.849Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:43:22.907Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:43:22.895Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:43:22.925Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:44:55.908Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:44:56.340Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:44:56.367Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:44:55.961Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:44:56.394Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:44:56.479Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:09.191Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:46:09.654Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:09.246Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:09.719Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:09.749Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:46:09.771Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:55.935Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:55.948Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:46:56.408Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:56.484Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:46:56.472Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:46:56.509Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:47:34.572Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:47:35.025Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:47:35.061Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:47:34.646Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:47:35.101Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:47:35.183Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:50:45.796Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:50:46.135Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:50:46.161Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:50:45.809Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:50:46.161Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:50:46.222Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:12.539Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:12.550Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:51:12.888Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:12.925Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:51:12.943Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:12.934Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:42.591Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:51:42.920Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:42.946Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:42.605Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T14:51:42.935Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T14:51:42.993Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:10.015Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:01:10.444Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:10.484Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:10.171Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:01:10.648Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:10.720Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:35.742Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:01:36.144Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:36.172Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:35.875Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:01:36.261Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:01:36.309Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:08.216Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:02:08.542Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:08.568Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:08.227Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:02:08.567Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:08.626Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:34.466Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:02:34.878Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:34.912Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:34.494Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:02:34.932Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:02:34.991Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:09.214Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:11:09.766Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:09.332Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:09.835Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:09.868Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:11:09.891Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:46.073Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:46.130Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:11:46.601Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:46.681Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:11:46.667Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:11:46.706Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:12:13.941Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:12:14.336Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:12:14.371Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:12:15.325Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:12:15.493Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:12:15.541Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:32.909Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:15:33.407Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:33.446Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:34.725Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:15:34.940Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:34.983Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:53.333Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:15:53.764Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:53.797Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:54.122Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:15:54.585Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:15:54.646Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:16:30.021Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:16:31.325Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:16:31.374Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:16:32.629Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:16:32.860Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:16:32.943Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:37:54.728Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:37:55.083Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:37:55.138Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:37:56.409Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:37:56.636Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:37:56.705Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:00.148Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:38:00.531Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:00.590Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:02.581Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:38:02.854Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:02.942Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:30.824Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:38:31.150Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:31.199Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:32.232Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:38:32.457Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:38:32.523Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:50:24.344Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:50:24.689Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:50:24.777Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:50:26.298Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:50:26.508Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:50:26.615Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:52:27.800Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:52:28.072Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:52:28.110Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:52:29.038Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:52:29.215Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:52:29.283Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:54:50.024Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:54:50.333Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:54:50.402Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:54:51.932Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:54:52.120Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:54:52.232Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:55:36.337Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:55:36.680Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:55:36.728Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:55:37.741Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:55:37.934Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:55:37.992Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:57:11.032Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:57:11.325Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:57:11.368Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:57:12.453Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:57:12.642Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T15:57:12.702Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T15:57:14.525Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T15:57:14.813Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:04:28.082Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:04:29.220Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:04:28.547Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:04:29.466Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:04:29.503Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:04:30.436Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:04:30.625Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:04:30.719Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:06:48.567Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:06:49.701Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:06:49.875Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:06:49.960Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:06:50.886Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:06:51.067Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:06:51.133Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:20.462Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:09:20.750Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:20.806Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:21.838Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:09:22.018Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:22.103Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:38.750Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:09:39.018Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:39.056Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:40.021Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:09:40.205Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:09:40.266Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:10:13.415Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:10:13.776Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:10:13.829Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:10:14.692Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:10:14.900Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:10:14.954Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:17.334Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:11:17.627Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:17.670Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:18.685Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:11:18.870Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:18.937Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:54.899Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:11:55.189Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:55.227Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:56.135Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:11:56.325Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:11:56.393Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:12:06.049Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:12:06.333Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:12:06.412Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:12:07.295Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:12:07.506Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:12:07.565Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:13:31.553Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:13:31.837Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:13:31.892Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:13:32.833Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:13:33.091Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:13:33.209Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:14:12.862Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:14:13.165Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:14:13.204Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:14:14.092Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:14:14.293Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:14:14.361Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:13.505Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:16:13.786Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:13.842Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:14.847Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:16:15.085Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:15.215Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:32.039Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:16:32.320Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:32.360Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:33.428Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:16:33.631Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:16:33.687Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:19:25.365Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:19:25.647Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:19:25.698Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:19:26.899Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:19:27.104Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:19:27.182Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:20:40.990Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:20:41.355Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:20:42.341Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:20:42.615Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:42.137Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:21:42.453Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:42.501Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:43.487Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:21:43.823Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:43.892Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:53.155Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:21:53.455Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:53.496Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:54.389Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:21:54.620Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:21:54.693Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:25.453Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:22:25.776Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:25.836Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:26.752Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:22:26.977Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:27.036Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:32.241Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:22:32.547Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:32.609Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:33.533Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:22:33.746Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:33.806Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:56.197Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:22:56.509Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:56.550Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:57.449Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:22:57.661Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:22:57.730Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:23:43.252Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:23:43.554Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:23:43.618Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:23:44.613Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:23:44.849Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:23:44.919Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:24:05.445Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:24:05.734Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:24:05.777Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:24:06.677Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:24:06.900Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:24:07.014Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:04.059Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:25:04.348Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:04.392Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:05.272Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:25:05.474Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:05.528Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:37.826Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:25:38.127Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:38.167Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:39.043Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:25:39.253Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:25:39.308Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:26:00.399Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:26:00.722Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:26:00.766Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:26:01.990Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:26:02.185Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:26:02.256Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:31:54.015Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:31:54.340Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:31:54.398Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:31:55.445Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:31:55.647Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:31:55.714Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:32:44.616Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:32:44.904Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:32:44.987Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:32:45.925Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:32:46.114Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:32:46.230Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:24.188Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:35:24.484Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:24.540Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:25.523Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:35:25.740Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:25.802Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:38.830Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:35:39.118Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:39.163Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:40.003Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:35:40.206Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:35:40.262Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:38:54.641Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:38:54.934Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:38:54.977Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:38:55.986Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:38:56.184Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:38:56.261Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:18.566Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:40:18.868Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:18.924Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:19.931Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:40:20.125Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:20.186Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:46.769Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:40:47.042Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:47.080Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:47.938Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:40:48.293Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:40:48.368Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:41:18.798Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:41:19.083Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:41:19.130Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T16:41:20.142Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T16:41:20.331Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T16:41:20.399Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:11:26.283Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:11:26.599Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:11:26.673Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:11:27.737Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:11:27.966Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:11:28.067Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:12:49.710Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:12:49.996Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:12:50.037Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:12:51.088Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:12:51.293Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:12:51.390Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:14:08.549Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:14:08.847Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:14:08.893Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:14:09.964Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:14:10.155Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:14:10.230Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:15:29.979Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:15:30.260Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:15:30.316Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:15:31.373Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:15:31.641Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:15:31.693Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:16:04.753Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:16:05.063Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:16:05.105Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:16:06.337Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:16:06.576Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:16:06.630Z"}
+{"meta":"","level":"info","message":"","timestamp":"2020-07-29T17:18:00.778Z"}
+{"level":"info","message":"VIDLY_DATABASE","timestamp":"2020-07-29T17:19:05.749Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T17:19:06.041Z"}
+{"level":"info","message":"VIDLY_DATABASE","timestamp":"2020-07-29T17:19:55.506Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T17:19:55.796Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:20:59.647Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T17:20:59.927Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:20:59.955Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:22:00.918Z"}
+{"level":"info","message":"Server is running on port 5000 and on development grounds","timestamp":"2020-07-29T17:22:01.222Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:22:01.251Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:22:15.856Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:22:16.169Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:22:16.214Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:22:17.258Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:22:17.443Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:22:17.508Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:23:44.792Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:23:45.069Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:23:45.125Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:23:46.221Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:23:46.403Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:23:46.455Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:24:30.244Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:24:30.527Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:24:30.575Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:24:31.795Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:24:32.017Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:24:32.075Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:27:22.272Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:27:22.545Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:27:22.599Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:27:23.696Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:27:23.874Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:27:23.937Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:28:19.836Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:28:20.117Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:28:20.162Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:28:21.322Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:28:21.548Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:28:21.600Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:31.722Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:30:32.075Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:32.138Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:33.533Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:30:33.746Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:33.816Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:43.272Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:30:43.576Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:43.633Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:44.616Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:30:44.806Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:30:44.857Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:31:23.261Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:31:23.532Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:31:23.576Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:31:24.548Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:31:24.729Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:31:24.790Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:34:05.229Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:34:06.343Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:34:06.385Z"}
+{"level":"info","message":"mongodb://localhost/vidly","timestamp":"2020-07-29T17:34:07.413Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:34:07.573Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:34:07.691Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:34:57.452Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:34:57.514Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:34:58.690Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:34:58.745Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:37:33.249Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:37:33.370Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:37:34.671Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:37:34.784Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:38:00.516Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:38:00.584Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:38:01.994Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:38:02.072Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:38:26.665Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:38:26.696Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:38:27.973Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:38:28.042Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:43:15.581Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:43:15.622Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:43:16.968Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:43:17.040Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:43:28.839Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:43:28.895Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:43:30.057Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:43:30.134Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:44:02.049Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:44:02.092Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:44:03.218Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:44:03.296Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:45:11.654Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:45:11.706Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:45:12.931Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:45:13.015Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:47:06.988Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:47:07.102Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:47:13.059Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:47:13.173Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:48:13.950Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:48:14.084Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:48:26.152Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:48:26.263Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:48:28.831Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:48:28.865Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:49:20.627Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:49:20.756Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:49:33.065Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:49:33.140Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:50:09.912Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:50:09.984Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:50:31.813Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:50:31.909Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:50:34.160Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:50:34.207Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:50:55.806Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:50:55.893Z"}
+{"message":"res.statusCode is not a function","stack":"TypeError: res.statusCode is not a function\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:45:14\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at auth (/home/igmrrf/Desktop/Portfolio/Node/vidly/middleware/auth.js:10:9)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/home/igmrrf/Desktop/Portfolio/Node/vidly/middleware/validateObjectId.js:5:5)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)","level":"error","timestamp":"2020-07-29T17:50:56.337Z"}
+{"message":"res.statusCode is not a function","stack":"TypeError: res.statusCode is not a function\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/routes/genre.js:45:14\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at auth (/home/igmrrf/Desktop/Portfolio/Node/vidly/middleware/auth.js:10:9)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/home/igmrrf/Desktop/Portfolio/Node/vidly/middleware/validateObjectId.js:5:5)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:281:22\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:354:14)\n    at param (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:410:3)\n    at next (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/igmrrf/Desktop/Portfolio/Node/vidly/node_modules/express/lib/router/index.js:47:12)","level":"error","timestamp":"2020-07-29T17:50:56.376Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:50:57.652Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:50:57.699Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:54:04.574Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:54:04.623Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:54:06.227Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:54:06.299Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:56:32.342Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:56:32.389Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:56:33.991Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:56:34.053Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:57:44.129Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:57:44.180Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:57:45.798Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:57:45.910Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:58:22.218Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:58:22.258Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:58:23.938Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:58:23.995Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:59:50.472Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:59:50.513Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T17:59:51.977Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T17:59:52.037Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:01:06.932Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:01:07.027Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:01:08.566Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:01:08.668Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:01:39.378Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:01:39.422Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:01:41.068Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:01:41.138Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:02:01.848Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:02:01.904Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:02:03.357Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:02:03.463Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:02:32.095Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:02:32.141Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:02:33.832Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:02:33.914Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:03:04.698Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:03:04.791Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:03:06.664Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:03:06.720Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:03:42.597Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:03:42.662Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:03:44.168Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:03:44.219Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:04:09.566Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:04:09.684Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:04:11.575Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:04:11.633Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:04:22.914Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:04:22.984Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:04:24.383Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:04:24.437Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:05:25.630Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:05:25.840Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:05:27.331Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:05:27.383Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:05:53.967Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:05:54.029Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:05:55.904Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:05:56.299Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:06:04.740Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:06:04.783Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:06:06.869Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:06:07.038Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:06:48.981Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:06:49.262Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:06:51.141Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:06:51.206Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:07:42.745Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:07:42.863Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:07:44.991Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:07:45.063Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:08:16.379Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:08:16.440Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:08:17.931Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:08:17.977Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:12:59.543Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:13:00.224Z"}
+{"level":"info","message":"Server is running on port 5000 and on test grounds","timestamp":"2020-07-29T18:13:02.948Z"}
+{"level":"info","message":"Successful Connection to mongodb://localhost/vidly","timestamp":"2020-07-29T18:13:03.029Z"}

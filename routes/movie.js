@@ -3,7 +3,7 @@ const { Genre } = require("../models/Genre");
 const Auth = require("../middleware/auth");
 const debug = require("debug")("app:route:movie");
 const router = express.Router();
-const { Movie, validate } = require("../models/Movies");
+const { Movie, validate } = require("../models/Movie");
 
 router.get("/", async (req, res) => {
     const movies = await Movie.find().sort("name");
@@ -45,7 +45,7 @@ router.put("/:id", Auth, async (req, res) => {
     const { error } = validate(req.body);
     if (error)
         return res
-            .statusCode(400)
+            .status(400)
             .send({ success: false, message: error.details[0].message });
     try {
         const movie = await Movie.findByIdAndUpdate(req.params.id);

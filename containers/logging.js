@@ -1,5 +1,5 @@
 const winston = require("winston");
-require("winston-mongodb");
+// require("winston-mongodb");
 require("express-async-errors");
 
 // ? Configuring winston to handle uncaught errors
@@ -15,8 +15,8 @@ module.exports = function () {
 
   // ? Setting up winston
   winston.add(winston.transports.File, { filename: "logfile.log" });
-  winston.add(winston.transports.MongoDB, {
-    db: "mongodb://localhost/playground",
-    level: "info"
-  });
+  //   winston.add(winston.transports.MongoDB, {
+  //     db: "mongodb://localhost/playground",
+  //     level: "info"
+  //   });
 };

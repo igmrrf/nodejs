@@ -13,8 +13,11 @@ app.set("view engine", "pug");
 app.set("views", "./views");
 
 const PORT = process.env.PORT;
-app.listen(PORT, () =>
-  winston.info(
-    `Server is running on port ${PORT} and on ${app.get("env")} grounds`
-  )
+
+const server = app.listen(PORT, () =>
+    winston.info(
+        `Server is running on port ${PORT} and on ${app.get("env")} grounds`
+    )
 );
+
+module.exports = server;

@@ -1,6 +1,9 @@
 {
+    "vividly_jwtkey": "JWT_SECRET_KEY",
+    "db": "DATABASE",
+    "port": "PORT",
     "mail": {
         "password": "APP_PASSWORD"
-    },
-    "vividly_jwtkey": "JWT_SECRET_KEY"
+    }
+
 }

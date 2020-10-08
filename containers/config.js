@@ -13,6 +13,7 @@ module.exports = function (app) {
   }
 
   debug("Application Name: " + config.get("name"));
+
   debug("Mail Password: " + config.get("mail.password"));
   if (app.get("env") === "development") {
     app.use(morgan("tiny"));

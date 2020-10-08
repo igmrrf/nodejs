@@ -1,34 +1,39 @@
 {
-    "name": "vidly",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "node src/index.js",
-        "start:dev": "DEBUG=app:* nodemon src/index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "@hapi/joi": "^17.1.1",
-        "bcrypt": "^5.0.0",
-        "body-parser": "^1.19.0",
-        "config": "^3.3.1",
-        "cors": "^2.8.5",
-        "debug": "^4.1.1",
-        "dotenv": "^8.2.0",
-        "express": "^4.17.1",
-        "express-async-errors": "^3.1.1",
-        "fawn": "^2.1.5",
-        "helmet": "^3.23.3",
-        "joi-objectid": "^3.0.1",
-        "jsonwebtoken": "^8.5.1",
-        "lodash": "^4.17.19",
-        "mongoose": "^5.9.21",
-        "morgan": "^1.10.0",
-        "pug": "^3.0.0",
-        "winston": "2.x",
-        "winston-mongodb": "^3.0.0"
-    }
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "DEBUG=app:* nodemon src/index.js",
+    "test": "jest --watchAll --verbose --runInBand --detectOpenHandles --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "fawn": "^2.1.5",
+    "helmet": "^3.23.3",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.19",
+    "mongoose": "^5.9.21",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.0",
+    "winston": "2.x",
+    "winston-mongodb": "^5.0.1"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "supertest": "^4.0.2"
+  }
 }
